@@ -1,0 +1,6 @@
+-se agrega metodo put al backend
+-se modifica para escuchar constantemente la base de datos en busca de nuevos pedidos.
+- se agrega función para cambiar estado a Pendiente por Facturar. 
+
+- agregar historial de pedidos
+- aun hay problemas para escuchar la base de datos en tiempo real desde el servidor local, probar mañana con vercel
